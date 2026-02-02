@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Karish Maskon",
+      "email": "admin@crudops.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Usuario Normal",
+      "email": "user@crudops.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "students": [
+    {
+      "id": "2",
+      "name": "Karish",
+      "email": "karish2@operations.com",
+      "properties": "PROPERTIES2",
+      "counterparties": "COUNTERPARTIES2",
+      "date": "06 Dec, 2021",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": "3",
+      "name": "Karish",
+      "email": "karish3@operations.com",
+      "properties": "PROPERTIES3",
+      "counterparties": "COUNTERPARTIES3",
+      "date": "06 Dec, 2021",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "4",
+      "name": "Karish",
+      "email": "karish4@operations.com",
+      "properties": "PROPERTIES4",
+      "counterparties": "COUNTERPARTIES4",
+      "date": "06 Dec, 2021",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": "5",
+      "name": "Karish",
+      "email": "karish5@operations.com",
+      "properties": "PROPERTIES5",
+      "counterparties": "COUNTERPARTIES5",
+      "date": "06 Dec, 2021",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    }
+  ],
+  "payments": [
+    {
+      "id": "1",
+      "entity": "Karish",
+      "type": "Fees",
+      "properties": "PROPERTIES",
+      "date": "06 Dec 2021",
+      "amount": "AED 50,000"
+    },
+    {
+      "id": "2",
+      "entity": "Karish",
+      "type": "Fees",
+      "properties": "PROPERTIES",
+      "date": "06 Dec 2021",
+      "amount": "AED 50,000"
+    },
+    {
+      "id": "3",
+      "entity": "Karish",
+      "type": "Fees",
+      "properties": "PROPERTIES",
+      "date": "06 Dec 2021",
+      "amount": "AED 50,000"
+    }
+  ]
+}
